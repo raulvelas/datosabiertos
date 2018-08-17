@@ -7,3 +7,6 @@ El gobierno de El Salvador reconoce la necesidad de contar con una Política Naci
 
 
 La construcción de la Política inició en 2015 con un proceso de diálogo coordinado porSecretaría Técnica y de Planificación (SETEPLAN) y la Secretaría de Participación, Transparencia y Anticorrupción (SPTA) de la Presidencia. En este proceso participaron instituciones de gobierno y representantes de la sociedad civil. Como resultados de las mesas de diálogo y contando con el apoyo de la Iniciativa Latinoamericana para los Datos Abiertos (ILDA) de la Organización  de Estados Americanos, se elaboró el texto de la Política y su guía de implementación.
+
+[plugins/dropbox/README.md][PlDb] |
+| Github |
