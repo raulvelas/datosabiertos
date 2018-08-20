@@ -1,42 +1,40 @@
-# III.	ANTECEDENTES
+# ANTECEDENTES
 
 
-La presente Política Nacional de Datos Abiertos (PNDA) mandata la apertura proactiva de los datos que permiten la generación de información en las instituciones. Esto constituye un complemento fundamental a la Ley de Acceso a Información Pública (LAIP) que, a partir de su entrada en vigencia en el año 2011, ha puesto a disposición de la población toda la documentación que se produce en la gestión pública. 
+La presente PolÃ­tica Nacional de Datos Abiertos (PNDA) mandata la apertura proactiva de los datos que permiten la generaciÃ³n de informaciÃ³n en las instituciones. Esto constituye un complemento fundamental a la Ley de Acceso a InformaciÃ³n PÃºblica (LAIP) que, a partir de su entrada en vigencia en el aÃ±o 2011, ha puesto a disposiciÃ³n de la poblaciÃ³n toda la documentaciÃ³n que se produce en la gestiÃ³n pÃºblica. 
 
-A partir de estos elementos y de las iniciativas emprendidas en materia de Gobierno Abierto, se hace evidente que este Gobierno reconoce la importancia de abrir los datos para la generación de políticas públicas más acertadas y de la incorporación de diferentes sectores de la sociedad en la formulación de soluciones a las problemáticas ciudadanas de forma colaborativa, aprovechando las tecnologías de la comunicación con orientación hacia el  conocimiento, la modernización y la participación en la gestión pública. 
+A partir de estos elementos y de las iniciativas emprendidas en materia de Gobierno Abierto, se hace evidente que este Gobierno reconoce la importancia de abrir los datos para la generaciÃ³n de polÃ­ticas pÃºblicas mÃ¡s acertadas y de la incorporaciÃ³n de diferentes sectores de la sociedad en la formulaciÃ³n de soluciones a las problemÃ¡ticas ciudadanas de forma colaborativa, aprovechando las tecnologÃ­as de la comunicaciÃ³n con orientaciÃ³n hacia el  conocimiento, la modernizaciÃ³n y la participaciÃ³n en la gestiÃ³n pÃºblica. 
 
-Esta Política se inscribe bajo los compromisos asumidos por la gestión del Presidente Salvador Sánchez Cerén dentro del marco del Plan Quinquenal de Desarrollo 2014- 2019: “El Salvador productivo, educado y seguro”. Este incluye dentro de sus principales objetivos: “Avanzar hacia la construcción de un Estado concertador, centrado en la ciudadanía y orientado a resultados.” El PQD 2014-2019 ha diseñado 7 estrategias dentro de su gestión, destacando objetivos claves que relacionan la necesidad de contar con una Política Nacional de Datos Abiertos que fomente la participación universal, la colaboración y la transparencia en el Órgano Ejecutivo. Dicha iniciativa se fundamenta en las siguientes estrategias:
+Esta PolÃ­tica se inscribe bajo los compromisos asumidos por la gestiÃ³n del Presidente Salvador SÃ¡nchez CerÃ©n dentro del marco del Plan Quinquenal de Desarrollo 2014- 2019: â€œEl Salvador productivo, educado y seguroâ€. Este incluye dentro de sus principales objetivos: â€œAvanzar hacia la construcciÃ³n de un Estado concertador, centrado en la ciudadanÃ­a y orientado a resultados.â€ El PQD 2014-2019 ha diseÃ±ado 7 estrategias dentro de su gestiÃ³n, destacando objetivos claves que relacionan la necesidad de contar con una PolÃ­tica Nacional de Datos Abiertos que fomente la participaciÃ³n universal, la colaboraciÃ³n y la transparencia en el Ã“rgano Ejecutivo. Dicha iniciativa se fundamenta en las siguientes estrategias:
+
+ 
+ - E.11.2. â€œConstrucciÃ³n de un Gobierno con capacidad de planificar y gestionar el desarrollo y una administraciÃ³n pÃºblica profesional que garantice el acceso y la calidad en la prestaciÃ³n de bienes y servicios pÃºblicosâ€.
+
+
+- E.11.5. â€œPromociÃ³n de la participaciÃ³n de la ciudadanÃ­a como protagonista en la gestiÃ³n pÃºblica y la gobernabilidad democrÃ¡ticaâ€. La cual nos lleva a establecer mecanismos y formas expeditas a travÃ©s de las cuales la poblaciÃ³n tenga acceso a los datos que le permitan actuar y participar en la formulaciÃ³n, seguimiento y evaluaciÃ³n de polÃ­ticas pÃºblicas y en su organizaciÃ³n territorial y nacional en funciÃ³n del bien comÃºn. Manejar datos y manejar informaciÃ³n es fundamental para estos procesos.
+
+  
+- E.11.6. â€œFortalecimiento de la transparencia, la lucha contra la corrupciÃ³n y el ejercicio del derecho de acceso a la informaciÃ³n pÃºblicaâ€. Esta estrategia contiene de manera especÃ­fica a la LÃ­nea de AcciÃ³n (L.11.6.2) que se refiere a: â€œFortalecer la polÃ­tica de datos abiertos en las instituciones del Ã“rgano Ejecutivoâ€ constituyendo una herramienta eficaz para lograr una mayor transparencia y rendiciÃ³n de cuentas en la administraciÃ³n pÃºblica.
+
+
+En ese contexto, El Salvador iniciÃ³ en el aÃ±o 2015 un proceso de diÃ¡logo con diversos actores nacionales, coordinado por la SecretarÃ­a TÃ©cnica y de PlanificaciÃ³n (SETEPLAN) y la SecretarÃ­a de ParticipaciÃ³n, Transparencia y AnticorrupciÃ³n (SPTA) de la Presidencia, en el cual participaron instituciones de Gobierno, organizaciones y personas de la sociedad civil, universidades, entre otros, instalando el Ecosistema  Nacional de Datos Abiertos (ENDA), creando en este espacio insumos importantes para establecer una ruta de acciÃ³n hacia la construcciÃ³n de una polÃ­tica de datos abiertos. AdemÃ¡s, en este marco se ha contado con avances significativos e inÃ©ditos en los Ãºltimos aÃ±os, con la intenciÃ³n y buena disposiciÃ³n del Ã“rgano Ejecutivo de impulsar en las entidades que lo conforman la transparencia, la rendiciÃ³n de cuentas y combatir las prÃ¡cticas de corrupciÃ³n en todos los niveles de la administraciÃ³n pÃºblica. Entre las acciones pioneras de este esfuerzo destacan:
+
+
+  - El Compromiso de El Salvador de formar parte de la Alianza para el Gobierno Abierto (AGA), en la bÃºsqueda de mejorar el desempeÃ±o gubernamental, fomentando la participaciÃ³n cÃ­vica y mejorando la capacidad de respuesta de los gobiernos hacia la ciudadanÃ­a.
 
  
 
- - E.11.2. “Construcción de un Gobierno con capacidad de planificar y gestionar el desarrollo y una administración pública profesional que garantice el acceso y la calidad en la prestación de bienes y servicios públicos”.
+ - La creaciÃ³n del Portal Web â€œInfoÃštilâ€ de la SPTA con el objeto de que los ciudadanos y ciudadanas cuenten con una herramienta que les permita tomar decisiones informadas que mejoren su calidad de vida, solucionando asÃ­ problemas pÃºblicos y evitando riesgos; por otra parte, esta herramienta ofrece informaciÃ³n pÃºblica actualizada y Ãºtil sobre finanzas, salud, educaciÃ³n, etc., para que las personas usuarias pueden consultarla de manera dinÃ¡mica.
 
-
-- E.11.5. “Promoción de la participación de la ciudadanía como protagonista en la gestión pública y la gobernabilidad democrática”. La cual nos lleva a establecer mecanismos y formas expeditas a través de las cuales la población tenga acceso a los datos que le permitan actuar y participar en la formulación, seguimiento y evaluación de políticas públicas y en su organización territorial y nacional en función del bien común. Manejar datos y manejar información es fundamental para estos procesos.
-
-  
-
-- E.11.6. “Fortalecimiento de la transparencia, la lucha contra la corrupción y el ejercicio del derecho de acceso a la información pública”. Esta estrategia contiene de manera específica a la Línea de Acción (L.11.6.2) que se refiere a: “Fortalecer la política de datos abiertos en las instituciones del Órgano Ejecutivo” constituyendo una herramienta eficaz para lograr una mayor transparencia y rendición de cuentas en la administración pública.
-
-
-En ese contexto, El Salvador inició en el año 2015 un proceso de diálogo con diversos actores nacionales, coordinado por la Secretaría Técnica y de Planificación (SETEPLAN) y la Secretaría de Participación, Transparencia y Anticorrupción (SPTA) de la Presidencia, en el cual participaron instituciones de Gobierno, organizaciones y personas de la sociedad civil, universidades, entre otros, instalando el Ecosistema  Nacional de Datos Abiertos (ENDA), creando en este espacio insumos importantes para establecer una ruta de acción hacia la construcción de una política de datos abiertos. Además, en este marco se ha contado con avances significativos e inéditos en los últimos años, con la intención y buena disposición del Órgano Ejecutivo de impulsar en las entidades que lo conforman la transparencia, la rendición de cuentas y combatir las prácticas de corrupción en todos los niveles de la administración pública. Entre las acciones pioneras de este esfuerzo destacan:
-
-
-  - El Compromiso de El Salvador de formar parte de la Alianza para el Gobierno Abierto (AGA), en la búsqueda de mejorar el desempeño gubernamental, fomentando la participación cívica y mejorando la capacidad de respuesta de los gobiernos hacia la ciudadanía.
-
- 
-
- - La creación del Portal Web “InfoÚtil” de la SPTA con el objeto de que los ciudadanos y ciudadanas cuenten con una herramienta que les permita tomar decisiones informadas que mejoren su calidad de vida, solucionando así problemas públicos y evitando riesgos; por otra parte, esta herramienta ofrece información pública actualizada y útil sobre finanzas, salud, educación, etc., para que las personas usuarias pueden consultarla de manera dinámica.
-
-- La creación de la ruta estratégica obtenida del documento “Hacia una Política de Datos Abiertos”. Taller “Mesa de Diálogo de Datos Abiertos”, de la Iniciativa Latinoamericana para los Datos Abiertos de la OEA, constituyendo un valioso espacio nacional dentro de los esfuerzos de la SETEPLAN y la SPTA; y
+- La creaciÃ³n de la ruta estratÃ©gica obtenida del documento â€œHacia una PolÃ­tica de Datos Abiertosâ€. Taller â€œMesa de DiÃ¡logo de Datos Abiertosâ€, de la Iniciativa Latinoamericana para los Datos Abiertos de la OEA, constituyendo un valioso espacio nacional dentro de los esfuerzos de la SETEPLAN y la SPTA; y
 
   
 
-- La creación de la Dirección de Gobierno Electrónico, parte de la SETEPLAN, que busca garantizar el acceso a infraestructuras de Tecnologías de Información y Comunicación (TIC) entre el sector público-privado y sociedad creando condiciones de desarrollo dentro de la economía digital, pero también fomentando la innovación y la competitividad con desarrollo sostenible e inclusivo.
+- La creaciÃ³n de la DirecciÃ³n de Gobierno ElectrÃ³nico, parte de la SETEPLAN, que busca garantizar el acceso a infraestructuras de TecnologÃ­as de InformaciÃ³n y ComunicaciÃ³n (TIC) entre el sector pÃºblico-privado y sociedad creando condiciones de desarrollo dentro de la economÃ­a digital, pero tambiÃ©n fomentando la innovaciÃ³n y la competitividad con desarrollo sostenible e inclusivo.
 
 
 
-Lo anterior demuestra un esfuerzo deliberado e intencionado para contar con un Gobierno eficaz y eficiente que entrega servicios de calidad a la sociedad; además, de promover un Gobierno Abierto que fomenta la participación ciudadana, la colaboración y la transparencia en todas las instituciones del Órgano Ejecutivo.
+Lo anterior demuestra un esfuerzo deliberado e intencionado para contar con un Gobierno eficaz y eficiente que entrega servicios de calidad a la sociedad; ademÃ¡s, de promover un Gobierno Abierto que fomenta la participaciÃ³n ciudadana, la colaboraciÃ³n y la transparencia en todas las instituciones del Ã“rgano Ejecutivo.
 
 
 
