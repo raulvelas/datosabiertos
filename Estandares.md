@@ -1,6 +1,6 @@
 # ESTANDARES PARA EL REGISTRO DE PERSONAS Y DISPOCISION DE DATOS PARA LAS INSTITUCIONES DEL ORGANO EJECUTIVO
 
-Introducción.
+### Introducción.
 
 A través de la Secretaria Técnica y de Planificación de la Presidencia se trabaja para la aplicación de mejores prácticas, políticas y estándares sobre diferentes temas que conciernen y que aseguren una gestión pública eficaz y la entrega de servicios de calidad a los ciudadanos. Este trabajo no exime a todo el conjunto de esfuerzos que se realizan en pro de las necesidades más sensibles bajo un compromiso en latinoamericana de convertirnos en un gobierno más abierto y en especial con la información que genera, surge la necesidad de trabajar en dos aristas claves: la normalización y estandarización, para que el desarrollo de las nuevas tecnologías sean más eficiente, medible y se pueda aprovechar todo el potencial de datos que tienen las instituciones para hacer proyectos de tecnología más inclusivos, consolidados y en razón principal hacerle la vida más fácil al ciudadano.
 
