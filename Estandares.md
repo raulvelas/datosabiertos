@@ -48,6 +48,7 @@ A continuación, se presentan los estándares a incluir en las instituciones del
 
 ## Códigos para registro de personas
 
+### Registro de nombres 
 
 
 | Plugin | README |
