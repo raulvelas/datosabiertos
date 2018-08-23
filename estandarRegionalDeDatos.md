@@ -243,3 +243,66 @@ http://sws.geonames.org/6255146"                                                
 </tbody>
 </table>
 
+## Campo (field)
+
+<table class="docutils">
+<thead>
+<tr><th>Nombre              </th><th>Requerido  </th><th>Descripción                                                                                                                                                                                                 </th><th>Ejemplo                                                                                                                                                                                                                                                                                    </th><th>Variable   </th><th>Tipo  </th></tr>
+</thead>
+<tbody>
+<tr><td>Nombre              </td><td>R          </td><td>El nombre del campo tal como se denomina en el encabezado de la distribución. Véase la "Guía para la publicación de datos en formatos abiertos" para una adecuada elección del nombre de un campo.
+
+Se recomienda no exceder los 40 caracteres en la mayoría de los casos. En caso de que un título más largo se juzgue necesario o significativamente más claro, este no deberá exceder los 60 caracteres en ningún caso.
+
+Debe estar compuesto por letras minúsculas de la "a" a la "z" sin caracteres especiales (sin tildes y sin la "ñ"), números y guiones bajos "_".                                                                                                                                                                                                             </td><td>Ejemplo para el cuarto campo de la distribución "Convocatorias abiertas durante el año 2015", valor para el nombre: "unidad_operativa_contrataciones_desc"                                                                                                                                 </td><td>title      </td><td>String</td></tr>
+<tr><td>Tipo                </td><td>R          </td><td>El tipo de dato contenido en el campo según la lista utilizada por la librería recline.js (http://okfnlabs.org/recline/docs/models.html#types). 
+
+Los tipos incluidos en esta lista son:
+
+string (text): Valores de texto.
+number (double, float, numeric): Números que puedan no ser enteros (incluyen decimales).
+integer (int): Números que siempre son enteros.
+date: Fecha simple expresada según el estándar ISO 8601 incluyendo únicamente año, mes y día (YYYY-MM-DD) como en "2016-02-01".
+time: Tiempo expresado según el estándar ISO 8601 incluyendo únicamente horas, minutos y segundos (hh:mm:ss) como en "10:05:00".
+date-time (datetime, timestamp): Fecha completa expresada según el estándar ISO 8601 incluyendo año, mes, día, horas, minutos y segundos (YYYY-MM-DDThh:mm:ssZ) como en "2016-02-01T10:05:00+03:00"
+boolean (bool): Valores verdadero/falso.
+binary: Representación de datos binarios base64.
+geo_point: Ver estructura en https://www.elastic.co/guide/en/elasticsearch/reference/current/geo-point.html.
+geojson: Ver en http://geojson.org/
+array: Lista de valores.
+object (json): Objeto de JSON.
+any: Campo que puede contener valores de cualquier tipo.                                                                                                                                                                                                             </td><td>Ejemplo para el campo "unidad_operativa_contrataciones_desc" de la distribución "Convocatorias abiertas durante el año 2015", valor para tipo: "string"                                                                                                                                    </td><td>type       </td><td>String</td></tr>
+<tr><td>Descripción         </td><td>R          </td><td>La descripción completa de la información que contiene el campo. Debe ser suficientemente precisa y explicativa para que el usuario de los datos comprenda cabalmente cómo utilizar los datos de este campo.</td><td>Ejemplo para el campo "unidad_operativa_contrataciones_desc" de la distribución "Convocatorias abiertas durante el año 2015", valor para descripción: "Organismo que realiza la convocatoría. Organismo de máximo nivel jerárquico al que pertenece la unidad operativa de contrataciones."</td><td>description</td><td>String</td></tr>
+<tr><td>Unidad de medida    </td><td>No         </td><td>La descripción de la unidad de medida en la que están expresados los valores del campo. Sólo se utiliza para campos de tipo numérico.                                                                       </td><td>Millones de pesos a precios de 1993                                                                                                                                                                                                                                                        </td><td>units      </td><td>String</td></tr>
+<tr><td>Cobertura geográfica</td><td>No         </td><td>Una región o lugar determinado al que el dataset haga referencia.
+
+Una región o un lugar determinado. Puede tomar valores:
+
+a) de países y, provincias y municipios argentinos, según las recomendaciones de la “Guía para la identificación y uso de entidades interoperables”.
+b) un área de coordenadas representada por latitud/ longitud en el orden: minima longitud, minima latitud, maxima longitud, maxima latitud.
+c) un punto geográfico representado por latitud/longitud.
+d) Si la referencia geográfico no está identificada en la “Guía para la identificación y uso de entidades interoperables” indicar la URIs según geonames.org; ej :
+http://sws.geonames.org/6255146"                                                                                                                                                                                                             </td><td>"ARG" es el código para la República Argentina.
+
+"06007" es el código de un departamento
+
+[-58.111111, -35.111111, -57.111111, -33.111111] es un bounding box
+
+[-58.111111, -35.111111] es un punto geográfico
+
+"http://sws.geonames.org/6255146"                                                                                                                                                                                                                                                                                            </td><td>spatial    </td><td>String</td></tr>
+</tbody>
+</table>
+
+## Tema (theme)
+
+<table class="docutils">
+<thead>
+<tr><th>Nombre       </th><th>Requerido  </th><th>Descripción                              </th><th>Ejemplo                                                                                                            </th><th>Variable   </th><th>Tipo  </th></tr>
+</thead>
+<tbody>
+<tr><td>Identificador</td><td>R          </td><td>El identificador del tema.               </td><td>AGRI                                                                                                               </td><td>id         </td><td>String</td></tr>
+<tr><td>Título       </td><td>R          </td><td>La etiqueta o título de un tema.         </td><td>Agricultura, pesca, silvicultura y alimentación                                                                    </td><td>label      </td><td>String</td></tr>
+<tr><td>Descripción  </td><td>R          </td><td>Una breve y concisa descripción del tema.</td><td>Bajo este concepto se incluyen datasets que cubren dominios tales como agricultura, pesca, forestación o alimentos.</td><td>description</td><td>String</td></tr>
+</tbody>
+</table>
