@@ -5,7 +5,7 @@
 ## Campos del perfil
 ## Catalogo (catalog)
 <table class="docutils">
-<thead>cldup.com/dTxpPi9lDf.thumb.png
+
 <tr><th>Nombre                                     </th><th>Requerido  </th><th>Descripción                                                                                                                                                                                                                                                </th><th>Ejemplo                                                        </th><th>Variable             </th><th>Tipo           </th></tr>
 </thead>
 <tbody>
