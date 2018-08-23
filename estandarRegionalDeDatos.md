@@ -306,3 +306,89 @@ http://sws.geonames.org/6255146"                                                
 <tr><td>Descripción  </td><td>R          </td><td>Una breve y concisa descripción del tema.</td><td>Bajo este concepto se incluyen datasets que cubren dominios tales como agricultura, pesca, forestación o alimentos.</td><td>description</td><td>String</td></tr>
 </tbody>
 </table>
+
+# ANEXOS
+
+## Anexo I - Taxonomía temática (tabla)
+El Perfil Regional de Metadatos propone el uso de la taxonomía temática definida por la Unión Europea.
+
+<table class="docutils">
+  <colgroup>
+    <col style="width:33%">
+    <col style="width:33%">
+    <col style="width:33%">
+  </colgroup>
+  <tbody>
+    <tr>
+      <td>Código (authority code)</td>
+      <td>Etiqueta (label)</td>
+      <td>Descripción (description)</td>
+    </tr>
+    <tr>
+      <td>AGRI</td>
+      <td>Agroganadería, pesca y forestación</td>
+      <td>Datos referidos a agroganadería, pesca y forestación. Por ejemplo: 'Lechería: precio pagado al productor' o 'Superficie forestada'.</td>
+    </tr>
+    <tr>
+      <td>ECON</td>
+      <td>Economía y finanzas</td>
+      <td>Datos referidos a economía y finanzas. Por ejemplo: 'Deuda pública'.</td>
+    </tr>
+    <tr>
+      <td>EDUC</td>
+      <td>Educación, cultura y deportes</td>
+      <td>Datos referidos a educación, cultura y deportes. Por ejemplo: 'Registro de Establecimientos Educativos'.</td>
+    </tr>
+    <tr>
+      <td>ENER</td>
+      <td>Energía</td>
+      <td>Datos referidos a energía. Por ejemplo: 'Productos mineros exportados' o 'Precios del GNC'.</td>
+    </tr>
+    <tr>
+      <td>ENVI</td>
+      <td>Medio ambiente</td>
+      <td>Datos referidos a medio ambiente. Por ejemplo: 'Operadores de residuos peligrosos'.</td>
+    </tr>
+    <tr>
+      <td>GOVE</td>
+      <td>Gobierno y sector público</td>
+      <td>Datos referidos a gobierno y sector público. Por ejemplo: 'Inmuebles del estado Nacional'.</td>
+    </tr>
+    <tr>
+      <td>HEAL</td>
+      <td>Salud</td>
+      <td>Datos referidos a salud. Por ejemplo: 'Estadísticas nacionales de VIH/SIDA'.</td>
+    </tr>
+    <tr>
+      <td>INTR</td>
+      <td>Asuntos internacionales</td>
+      <td>Datos referidos a asuntos internacionales. Por ejemplo: 'Representaciones argentinas en el exterior'.</td>
+    </tr>
+    <tr>
+      <td>JUST</td>
+      <td>Justicia, seguridad y legales</td>
+      <td>Datos referidos a justicia, seguridad y legales. Por ejemplo: 'Censo penitenciario'.</td>
+    </tr>
+    <tr>
+      <td>REGI</td>
+      <td>Regiones y ciudades</td>
+      <td>Datos referidos a regiones y ciudades. Por ejemplo: 'Departamentos de la provincia de Río Negro'.</td>
+    </tr>
+    <tr>
+      <td>SOCI</td>
+      <td>Población y sociedad</td>
+      <td>Datos referidos a población y sociedad. Por ejemplo: 'Turistas residentes que viajan por Argentina'.</td>
+    </tr>
+    <tr>
+      <td>TECH</td>
+      <td>Ciencia y tecnología</td>
+      <td>Datos referidos a ciencia y tecnología. Por ejemplo: 'Recursos humanos en ciencia y tecnología'.</td>
+    </tr>
+    <tr>
+      <td>TRAN</td>
+      <td>Transporte</td>
+      <td>Datos referidos a transporte. Por ejemplo: 'Estadísticas viales'.</td>
+    </tr>
+    </tbody>
+</table>
+
