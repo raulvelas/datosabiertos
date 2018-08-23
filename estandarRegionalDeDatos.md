@@ -1,6 +1,6 @@
 # Perfil Regional de Metadatos
 
-[![N|Solid](https://github.com/raulvelas/datosabiertos/blob/master/esquema%20regional%20datos%20abiertos.png)]
+![N|Solid](https://github.com/raulvelas/datosabiertos/blob/master/esquema%20regional%20datos%20abiertos.png)
 
 ## Campos del perfil
 ## Catalogo (catalog)
