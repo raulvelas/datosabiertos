@@ -392,7 +392,7 @@ El Perfil Regional de Metadatos propone el uso de la taxonomía temática defini
     </tbody>
 </table>
 
-# Anexo II - Taxonomía temática (JSON)
+## Anexo II - Taxonomía temática (JSON)
 
 Esta es la taxonomía temática global:
 <pre><code class="json hljs">[
@@ -464,6 +464,111 @@ Esta es la taxonomía temática global:
 ]
 </code></pre>
 
+## Anexo III - Pautas para la selección de etiquetas
 
+Elegir buenas etiquetas hace más fácil la búsqueda de datasets para los usuarios. Cuanto más amplia y uniforme sea la lista de etiquetas, mayor será su efectividad.
+
+Estas son pautas para definir etiquetas aplicables a la propiedad keyword de la clase dataset:
+
+- Escribir correctamente y en plural.
+- Usar mayúsculas sólo donde corresponda.
+- Identificar palabras claves.
+- Respetar la existencia de etiquetas anteriores.
+- Agregar sinónimos y emplear lenguaje natural.
+- Usar una sóla palabra. Si es muy necesario, usar más de una.
+- Si la etiqueta tiene más de una palabra, debe estar separada por un espacio, ej: "declaraciones juradas".
+
+Preguntas útiles a la hora de pensar los etiquetas:
+
+- ¿Cuál es el tema?
+- ¿Qué aspectos serán de interés para los usuarios?
+- ¿De qué otro modo buscaría sobre esta información?
+- ¿De qué tipo de información se trata?
+- ¿Qué área la provee?
+
+## Anexo IV - Especificación de frecuencias (según ISO-8601)
+
+<table class="docutils">
+  <tbody><tr>
+    <td>Frecuencia</td>
+    <td>Valor según ISO-8601</td>
+  </tr>
+  <tr>
+    <td>Cada diez años</td>
+    <td>R/P10Y</td>
+  </tr>
+  <tr>
+    <td>Cada cuatro años</td>
+    <td>R/P4Y</td>
+  </tr>
+  <tr>
+    <td>Cada tres años</td>
+    <td>R/P3Y</td>
+  </tr>
+  <tr>
+    <td>Cada dos años</td>
+    <td>R/P2Y</td>
+  </tr>
+  <tr>
+    <td>Anualmente</td>
+    <td>R/P1Y</td>
+  </tr>
+  <tr>
+    <td>Cada medio año</td>
+    <td>R/P6M</td>
+  </tr>
+  <tr>
+    <td>Cuatrimestralmente</td>
+    <td>R/P4M</td>
+  </tr>
+  <tr>
+    <td>Trimestralmente</td>
+    <td>R/P3M</td>
+  </tr>
+  <tr>
+    <td>Bimestralmente</td>
+    <td>R/P2M</td>
+  </tr>
+  <tr>
+    <td>Mensualmente</td>
+    <td>R/P1M</td>
+  </tr>
+  <tr>
+    <td>Cada 15 días</td>
+    <td>R/P0.5M</td>
+  </tr>
+  <tr>
+    <td>Tres veces por mes</td>
+    <td>R/P0.33M</td>
+  </tr>
+  <tr>
+    <td>Semanalmente</td>
+    <td>R/P1W</td>
+  </tr>
+  <tr>
+    <td>Dos veces a la semana</td>
+    <td>R/P0.5W</td>
+  </tr>
+  <tr>
+    <td>Tres veces a la semana</td>
+    <td>R/P0.33W</td>
+  </tr>
+  <tr>
+    <td>Diariamente</td>
+    <td>R/P1D</td>
+  </tr>
+  <tr>
+    <td>Cada hora</td>
+    <td>R/PT1H</td>
+  </tr>
+  <tr>
+    <td>Continuamente actualizado</td>
+    <td>R/PT1S</td>
+  </tr>
+  <tr>
+    <td>Eventual</td>
+    <td>eventual</td>
+  </tr>
+</tbody></table>
 
 
