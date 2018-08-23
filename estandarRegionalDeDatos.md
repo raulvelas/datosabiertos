@@ -1,5 +1,6 @@
 # Perfil Regional de Metadatos
 
+## Catalogo (catalog)
 <table class="docutils">
 <thead>
 <tr><th>Nombre                                     </th><th>Requerido  </th><th>Descripción                                                                                                                                                                                                                                                </th><th>Ejemplo                                                        </th><th>Variable             </th><th>Tipo           </th></tr>
@@ -76,7 +77,7 @@ Se utiliza para que distintas aplicaciones reconozcan y validen los metadatos de
 </tbody>
 </table>
 
-# Dataset (dataset)
+## Dataset (dataset)
 
 <table class="docutils">
 <thead>
