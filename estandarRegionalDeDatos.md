@@ -392,3 +392,78 @@ El Perfil Regional de Metadatos propone el uso de la taxonomía temática defini
     </tbody>
 </table>
 
+# Anexo II - Taxonomía temática (JSON)
+
+Esta es la taxonomía temática global:
+<pre><code class="json hljs">[
+    {
+        "<span class="hljs-attribute">id</span>":<span class="hljs-value"><span class="hljs-string">"AGRI"</span></span>,
+        "<span class="hljs-attribute">label</span>":<span class="hljs-value"><span class="hljs-string">"Agroganadería, pesca y forestación"</span></span>,
+        "<span class="hljs-attribute">description</span>":<span class="hljs-value"><span class="hljs-string">"Datos referidos a agroganadería, pesca y forestación. Por ejemplo: 'Lechería: precio pagado al productor' o 'Superficie forestada'."</span>
+    </span>},
+    {
+        "<span class="hljs-attribute">id</span>":<span class="hljs-value"><span class="hljs-string">"ECON"</span></span>,
+        "<span class="hljs-attribute">label</span>":<span class="hljs-value"><span class="hljs-string">"Economía y finanzas"</span></span>,
+        "<span class="hljs-attribute">description</span>":<span class="hljs-value"><span class="hljs-string">"Datos referidos a economía y finanzas. Por ejemplo: 'Deuda pública'."</span>
+    </span>},
+    {
+        "<span class="hljs-attribute">id</span>":<span class="hljs-value"><span class="hljs-string">"EDUC"</span></span>,
+        "<span class="hljs-attribute">label</span>":<span class="hljs-value"><span class="hljs-string">"Educación, cultura y deportes"</span></span>,
+        "<span class="hljs-attribute">description</span>":<span class="hljs-value"><span class="hljs-string">"Datos referidos a educación, cultura y deportes. Por ejemplo: 'Registro de Establecimientos Educativos'."</span>
+    </span>},
+    {
+        "<span class="hljs-attribute">id</span>":<span class="hljs-value"><span class="hljs-string">"ENER"</span></span>,
+        "<span class="hljs-attribute">label</span>":<span class="hljs-value"><span class="hljs-string">"Energía"</span></span>,
+        "<span class="hljs-attribute">description</span>":<span class="hljs-value"><span class="hljs-string">"Datos referidos a energía. Por ejemplo: 'Productos mineros exportados' o 'Precios del GNC'."</span>
+    </span>},
+    {
+        "<span class="hljs-attribute">id</span>":<span class="hljs-value"><span class="hljs-string">"ENVI"</span></span>,
+        "<span class="hljs-attribute">label</span>":<span class="hljs-value"><span class="hljs-string">"Medio ambiente"</span></span>,
+        "<span class="hljs-attribute">description</span>":<span class="hljs-value"><span class="hljs-string">"Datos referidos a medio ambiente. Por ejemplo: 'Operadores de residuos peligrosos'."</span>
+    </span>},
+    {
+        "<span class="hljs-attribute">id</span>":<span class="hljs-value"><span class="hljs-string">"GOVE"</span></span>,
+        "<span class="hljs-attribute">label</span>":<span class="hljs-value"><span class="hljs-string">"Gobierno y sector público"</span></span>,
+        "<span class="hljs-attribute">description</span>":<span class="hljs-value"><span class="hljs-string">"Datos referidos a gobierno y sector público. Por ejemplo: 'Inmuebles del estado Nacional'."</span>
+    </span>},
+    {
+        "<span class="hljs-attribute">id</span>":<span class="hljs-value"><span class="hljs-string">"HEAL"</span></span>,
+        "<span class="hljs-attribute">label</span>":<span class="hljs-value"><span class="hljs-string">"Salud"</span></span>,
+        "<span class="hljs-attribute">description</span>":<span class="hljs-value"><span class="hljs-string">"Datos referidos a salud. Por ejemplo: 'Estadísticas nacionales de VIH/SIDA'."</span>
+    </span>},
+    {
+        "<span class="hljs-attribute">id</span>":<span class="hljs-value"><span class="hljs-string">"INTR"</span></span>,
+        "<span class="hljs-attribute">label</span>":<span class="hljs-value"><span class="hljs-string">"Asuntos internacionales"</span></span>,
+        "<span class="hljs-attribute">description</span>":<span class="hljs-value"><span class="hljs-string">"Datos referidos a asuntos internacionales. Por ejemplo: 'Representaciones argentinas en el exterior'."</span>
+    </span>},
+    {
+        "<span class="hljs-attribute">id</span>":<span class="hljs-value"><span class="hljs-string">"JUST"</span></span>,
+        "<span class="hljs-attribute">label</span>":<span class="hljs-value"><span class="hljs-string">"Justicia, seguridad y legales"</span></span>,
+        "<span class="hljs-attribute">description</span>":<span class="hljs-value"><span class="hljs-string">"Datos referidos a justicia, seguridad y legales. Por ejemplo: 'Censo penitenciario'."</span>
+    </span>},
+    {
+        "<span class="hljs-attribute">id</span>":<span class="hljs-value"><span class="hljs-string">"REGI"</span></span>,
+        "<span class="hljs-attribute">label</span>":<span class="hljs-value"><span class="hljs-string">"Regiones y ciudades"</span></span>,
+        "<span class="hljs-attribute">description</span>":<span class="hljs-value"><span class="hljs-string">"Datos referidos a regiones y ciudades. Por ejemplo: 'Departamentos de la provincia de Río Negro'."</span>
+    </span>},
+    {
+        "<span class="hljs-attribute">id</span>":<span class="hljs-value"><span class="hljs-string">"SOCI"</span></span>,
+        "<span class="hljs-attribute">label</span>":<span class="hljs-value"><span class="hljs-string">"Población y sociedad"</span></span>,
+        "<span class="hljs-attribute">description</span>":<span class="hljs-value"><span class="hljs-string">"Datos referidos a población y sociedad. Por ejemplo: 'Turistas residentes que viajan por Argentina'."</span>
+    </span>},
+    {
+        "<span class="hljs-attribute">id</span>":<span class="hljs-value"><span class="hljs-string">"TECH"</span></span>,
+        "<span class="hljs-attribute">label</span>":<span class="hljs-value"><span class="hljs-string">"Ciencia y tecnología"</span></span>,
+        "<span class="hljs-attribute">description</span>":<span class="hljs-value"><span class="hljs-string">"Datos referidos a ciencia y tecnología. Por ejemplo: 'Recursos humanos en ciencia y tecnología'."</span>
+    </span>},
+    {
+        "<span class="hljs-attribute">id</span>":<span class="hljs-value"><span class="hljs-string">"TRAN"</span></span>,
+        "<span class="hljs-attribute">label</span>":<span class="hljs-value"><span class="hljs-string">"Transporte"</span></span>,
+        "<span class="hljs-attribute">description</span>":<span class="hljs-value"><span class="hljs-string">"Datos referidos a transporte. Por ejemplo: 'Estadísticas viales'."</span>
+    </span>}
+]
+</code></pre>
+
+
+
+
