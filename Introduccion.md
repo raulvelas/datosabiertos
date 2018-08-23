@@ -2,11 +2,8 @@
 
 
 
-El gobierno de El Salvador reconoce la necesidad de contar con una Política Nacional de Datos Abiertos que fomente la participación universal, la colaboración y la transparencia en el Órgano Ejecutivo, además del acceso abierto y sin restricciones del conjunto de datos producidos por las instituciones gubernamentales para la ciudadanía. Esta política refuerza el compromiso por el acceso a la información pública y la transparencia de los datos que inició con la implementación de la Ley de Acceso a la Información Pública (LAIP).
+El gobierno de El Salvador reconoce la necesidad de contar con una PolÃ­tica Nacional de Datos Abiertos que fomente la participaciÃ³n universal, la colaboraciÃ³n y la transparencia en el Ã“rgano Ejecutivo, ademÃ¡s del acceso abierto y sin restricciones del conjunto de datos producidos por las instituciones gubernamentales para la ciudadanÃ­a. Esta polÃ­tica refuerza el compromiso por el acceso a la informaciÃ³n pÃºblica y la transparencia de los datos que iniciÃ³ con la implementaciÃ³n de la Ley de Acceso a la InformaciÃ³n PÃºblica (LAIP).
 
 
+La construcciÃ³n de la PolÃ­tica iniciÃ³ en 2015 con un proceso de diÃ¡logo coordinado porSecretarÃ­a TÃ©cnica y de PlanificaciÃ³n (SETEPLAN) y la SecretarÃ­a de ParticipaciÃ³n, Transparencia y AnticorrupciÃ³n (SPTA) de la Presidencia. En este proceso participaron instituciones de gobierno y representantes de la sociedad civil. Como resultados de las mesas de diÃ¡logo y contando con el apoyo de la Iniciativa Latinoamericana para los Datos Abiertos (ILDA) de la OrganizaciÃ³n  de Estados Americanos, se elaborÃ³ el texto de la PolÃ­tica y su guÃ­a de implementaciÃ³n.
 
-La construcción de la Política inició en 2015 con un proceso de diálogo coordinado porSecretaría Técnica y de Planificación (SETEPLAN) y la Secretaría de Participación, Transparencia y Anticorrupción (SPTA) de la Presidencia. En este proceso participaron instituciones de gobierno y representantes de la sociedad civil. Como resultados de las mesas de diálogo y contando con el apoyo de la Iniciativa Latinoamericana para los Datos Abiertos (ILDA) de la Organización  de Estados Americanos, se elaboró el texto de la Política y su guía de implementación.
-
-[plugins/dropbox/README.md][PlDb] |
-| Github |
